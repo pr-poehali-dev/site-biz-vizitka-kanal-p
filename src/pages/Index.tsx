@@ -14,16 +14,8 @@ const Index = () => {
               ИНФОРМАЦИЯ О НАС
             </h2>
             <p className="text-lg leading-relaxed text-foreground/80">
-              На данном сайте вы сможете узнать немного про этот канал, его историю, админов и вступить во флуд
+              На данном сайте вы сможете узнать немного про этот канал, его историю и админов
             </p>
-          </div>
-
-          <div className="flex justify-center mb-16">
-            <img 
-              src="https://cdn.poehali.dev/files/72ca0852-301c-4f0d-9b3a-1e7f0a83b512.jpg" 
-              alt="Character illustration"
-              className="w-full max-w-md rounded-lg"
-            />
           </div>
         </section>
 
@@ -32,27 +24,19 @@ const Index = () => {
             Приветствие
           </h2>
 
-          <div className="flex justify-center mb-8">
-            <img 
-              src="https://cdn.poehali.dev/files/4fbf966a-21eb-4076-ab55-534206ec65d0.jpg" 
-              alt="Cat with laptop"
-              className="w-64"
-            />
-          </div>
-
           <div className="space-y-6 text-lg leading-relaxed text-foreground/80">
             <p>
               Приветствуем вас на нашем канале "Call of Meow"!
             </p>
             <p>
-              Меня зовут Kätzchen, и я – его владелец. Здесь я вместе с Эвилом создаем уникальных ботов, переписки, фанфики и хедканоны по таким фандомам, как Call of Duty и немного Mortal Kombat. Мы всегда рады новым людям, а еще планируем запилить группу в Discord!
+              Меня зовут Бипбип, и я – его владелец. Здесь я вместе с другими админами создаем уникальных ботов, переписки, фанфики и хедканоны по таким фандомам, как Call of Duty и немного Mortal Kombat. Мы всегда рады новым людям!
             </p>
           </div>
         </section>
 
         <section className="mb-20">
           <h2 className="text-[40px] md:text-[48px] leading-none font-bold mb-8 tracking-tight">
-            Публикация во взаимном пиаре (ВП)
+            Информация о взаимном пиаре (ВП)
           </h2>
 
           <div className="space-y-6 text-lg leading-relaxed text-foreground/80">
