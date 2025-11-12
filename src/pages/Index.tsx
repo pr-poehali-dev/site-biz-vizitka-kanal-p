@@ -50,10 +50,7 @@ const Index = () => {
           <Button 
             size="lg" 
             className="bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white font-bold text-lg px-8 py-6 rounded-full shadow-lg shadow-purple-500/50 hover:shadow-xl hover:shadow-purple-500/60 transition-all"
-          >
-            <Icon name="Youtube" size={24} className="mr-2" />
-            Подписаться на канал
-          </Button>
+          >Подписаться на тгк</Button>
         </header>
 
         <section className="mb-20 animate-slide-up">
