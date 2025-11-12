@@ -61,7 +61,7 @@ const Index = () => {
             <div>
               <p className="font-semibold mb-2">Связь:</p>
               <p>
-                Все вопросы и предложения направляйте владельцу канала.
+                Все вопросы и предложения направляйте владельцу канала: <a href="https://t.me/Mee_and_yooy" target="_blank" rel="noopener noreferrer" className="font-semibold underline hover:text-foreground transition-colors">@Mee_and_yooy</a>
               </p>
             </div>
           </div>
